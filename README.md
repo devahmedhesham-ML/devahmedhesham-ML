@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Ahmed Hesham, experinced ML engineer writing production grade, enjoy requriment gathering and problem framing as well as solution design and forcasting future problems and hypothies testing.
-have worked in private govermantel projects, entriprise projects.
+My name is Ahmed Hesham, experinced ML engineer writing production grade code, enjoying requirement gathering and problem framing as well as solution design and forcasting future problems and hypothies testing.
+have worked in private governmental projects, entriprise projects. with the start-up fast base and variable workloads nuture.
 have worked on agentic AI, Document workflow and automation using LLMs and OCRs
 
 ### 🔭 I’m currently working on  
@@ -11,14 +11,15 @@ have worked on agentic AI, Document workflow and automation using LLMs and OCRs
 - Leading AI squads delivering **document intelligence, RAG systems, and court-automation** for UAE government projects.
 
 ### 🌱 I’m currently learning  
-- advanced **recommendation systems** from scratch for large-scale userbase
-- **AWS Developer Associate** concepts  
+- advanced **recommendation systems** from scratch for large-scale user serving.
+- distributed systems and serverless architecture concepts
 - High-performance **vector search & retrieval** (FAISS, Redis-VL, Qdrant)  
 - Scaling ML systems to millions of users
 
 ### 👯 I’m looking to collaborate on  
 - Real-world **AI automations**, LLM-powered workflows, ML production systems  
-- Recommendation systems, fraud detection, RAG, or enterprise AI projects
+- Recommendation systems, fraud detection, RAG, or Agentic AI projects
+- Open Source AI framework contribution or islamic app contribution 
 
 ### 💬 Ask me about  
 - Data pipelines, ML modeling, feature engineering  
