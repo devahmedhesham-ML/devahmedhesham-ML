@@ -5,7 +5,7 @@ have worked on agentic AI, Document workflow and automation using LLMs and OCRs
 
 ### 🔭 I’m currently working on  
 - Building large-scale **recommendation systems** (offline ranking, online reranking, Redis-based serving, ANN research).  
-- Developing **fraud-detection pipelines** (XGBoost, feature engineering, multi-source ingestion, risk-tier scoring).  
+- Developing **[fraud-detection pipelines](https://github.com/devahmedhesham-ML/Fraud_detection)** (XGBoost, feature engineering, multi-source ingestion, risk-tier scoring).  
 - Automating **HR appraisal workflows** end-to-end (Google Apps Script, Gmail threading, Drive integration, error-resilient orchestration).  
 - supporting **[WhatsApp Sender](https://github.com/devahmedhesham-ML/whatsapp_sender)** (send high volume whatsapp campaign ).  
 - Leading AI squads delivering **document intelligence, RAG systems, and court-automation** for UAE government projects.
