@@ -1,14 +1,17 @@
 ## Hi there 👋
+My name is Ahmed Hesham, experinced ML engineer writing production grade, enjoy requriment gathering and problem framing as well as solution design and forcasting future problems and hypothies testing.
+have worked in private govermantel projects, entriprise projects.
+have worked on agentic AI, Document workflow and automation using LLMs and OCRs
 
 ### 🔭 I’m currently working on  
 - Building large-scale **recommendation systems** (offline ranking, online reranking, Redis-based serving, ANN research).  
 - Developing **fraud-detection pipelines** (XGBoost, feature engineering, multi-source ingestion, risk-tier scoring).  
 - Automating **HR appraisal workflows** end-to-end (Google Apps Script, Gmail threading, Drive integration, error-resilient orchestration).  
-- Designing **WhatsApp automation** (WABA templates, interactive flows, media handling, n8n orchestration, dynamic payloads).  
+- supporting **[WhatsApp Sender](https://github.com/devahmedhesham-ML/whatsapp_sender)** (send high volume whatsapp campaign ).  
 - Leading AI squads delivering **document intelligence, RAG systems, and court-automation** for UAE government projects.
 
 ### 🌱 I’m currently learning  
-- Advanced **AI engineering & inference optimization**  
+- advanced **recommendation systems** from scratch for large-scale userbase
 - **AWS Developer Associate** concepts  
 - High-performance **vector search & retrieval** (FAISS, Redis-VL, Qdrant)  
 - Scaling ML systems to millions of users
